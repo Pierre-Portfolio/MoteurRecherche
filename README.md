@@ -22,8 +22,5 @@
 ## UML
 <img src="./Assets/UML.png" alt="MoteurRecherche" />
 
-## UI
-<img src="./Assets/UI.png" alt="MoteurRecherche" />
-
 ## Auteur
 - [@Pierre](https://github.com/Pierre-Portfolio)
