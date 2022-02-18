@@ -1,27 +1,23 @@
 <h1 align="center">
-  <img src="./Assets/header.jpg" alt="GestionCadeaux" />
+  <img src="./Assets/header.png" alt="MoteurRecherche" />
 </h1>
 
 ---
 
-# GESTION DE CADEAUX
+# MOTEUR DE RECHERCHE
 
 ## Petit résumé
-- Il n’est pas toujours évident pour les autres de trouver les cadeaux qui nous feront
-plaisir ou de trouver des idées de cadeaux pour nos amis et notre famille.
+- Les moteurs de recherche sont maintenant un outils indispensable a tout être humain. Il en existe de toute sorte mais il peut parfois être difficile de trouver la ressource que l'on cherche en fonction des mots clé que l'on utilise.
 
 ## Objectifs
-- Concevoir une application web pour la gestion des cadeaux de Noël.
-- Eviter les doublons dans les achats
-- Eviter d'acheter des cadeaux qui pourrait ne pas plaire à son destinataire.
+- Concevoir un moteur de recherche dédié à un établissement entretenu par les utilisateurs.
 
 ## Techno
 - HTML
 - CSS
 - SQL
-- JavaScript
-- PHP
-- PhpMyAdmin
+- Oracle
+- FileZila
 
 ## UML
 <img src="./Assets/UML.png" alt="Lampe" />
