@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./Assets/Header.png" alt="MoteurRecherche" />
+  <img src="./Assets/header.png" alt="MoteurRecherche" />
 </h1>
 
 ---
@@ -20,10 +20,10 @@
 - FileZila
 
 ## UML
-<img src="./Assets/UML.png" alt="Lampe" />
+<img src="./Assets/UML.png" alt="MoteurRecherche" />
 
 ## UI
-<img src="./Assets/UI.png" alt="Lampe" />
+<img src="./Assets/UI.png" alt="MoteurRecherche" />
 
 ## Auteur
 - [@Pierre](https://github.com/Pierre-Portfolio)
