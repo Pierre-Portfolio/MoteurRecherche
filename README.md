@@ -10,7 +10,7 @@
 - Les moteurs de recherche sont maintenant des outils indispensables à tout le monde. Il en existe de toutes sortes mais il est parfois difficile de trouver ce que l'on cherche en fonction des mots clés que l'on utilise.
 
 ## Objectifs
-- Concevoir un moteur de recherche dédié à un établissement alimenté par les utilisateurs.
+- Concevoir un moteur de recherche dédié à une spécialitée et alimentés par les utilisateursavec les réponse les plus pertinentes.
 
 ## Techno
 - HTML
