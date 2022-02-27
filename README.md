@@ -7,10 +7,10 @@
 # MOTEUR DE RECHERCHE
 
 ## Petit résumé
-- Les moteurs de recherche sont maintenant un outils indispensable a tout être humain. Il en existe de toute sorte mais il peut parfois être difficile de trouver la ressource que l'on cherche en fonction des mots clé que l'on utilise.
+- Les moteurs de recherche sont maintenant des outils indispensables à tout le monde. Il en existe de toutes sortes mais il est parfois difficile de trouver ce que l'on cherche en fonction des mots clés que l'on utilise.
 
 ## Objectifs
-- Concevoir un moteur de recherche dédié à un établissement entretenu par les utilisateurs.
+- Concevoir un moteur de recherche dédié à un établissement alimenté par les utilisateurs.
 
 ## Techno
 - HTML
